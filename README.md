@@ -1,6 +1,6 @@
-# Library_API_project 🤓
+# Library_API_project 📚
 
-# Introduction 🛫
+# Introduction 📖
 This API is prepared as a final project for the "Programowanie Ruby" subject. 
 It presents a library simulation and includes functions like seeing all the books in the library, adding, deleting and updating them.
 
