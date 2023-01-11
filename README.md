@@ -5,7 +5,7 @@ This API is prepared as a final project for the "Programowanie Ruby" subject.
 It presents a library simulation and includes functions like seeing all the books in the library, adding, deleting and updating them.
 
 # Technology 💻
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Setup 📃
