@@ -20,5 +20,5 @@ app.listen(PORT, () => console.log(`it's alive on http://localhost:${PORT}`));
 //biblioteka
 //GET/book(/:id) - finds all books(/a book)
 //POST/book - creates a book
-//DELETE/book/:id - deletes a user
-//PATCH/book/:id - updates a user
+//DELETE/book/:id - deletes a book
+//PATCH/book/:id - updates a book
